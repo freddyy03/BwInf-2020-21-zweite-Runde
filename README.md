@@ -1,4 +1,4 @@
-# BwInf-2020-21-zweite-Runde
+# BwInf-2020-21-Second-Round
 My solutions to the tasks of the 39th Federal Computer Science Competition of the second round.
 
 See also on the website of the Federal Computer Science Competition:
